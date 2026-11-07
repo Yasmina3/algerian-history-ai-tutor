@@ -1,4 +1,4 @@
-# 🇩🇿 Algerian History AI Tutor
+#  Algerian History AI Tutor
 ### Domain-Specific LLM Fine-Tuning, Retrieval-Augmented Generation (RAG) & Tool-Augmented LLM Architecture
 
 An advanced Natural Language Processing (NLP) project combining **Parameter-Efficient Fine-Tuning (PEFT), semantic retrieval, vector databases, and multi-model orchestration** to develop an Arabic-speaking AI tutor specialized in Algerian history.
